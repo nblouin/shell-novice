@@ -527,6 +527,18 @@ but it does find the copy in `thesis` that we didn't delete.
 > magically turn it into a recording of whalesong, though it *might*
 > cause the operating system to try to open it with a music player
 > when someone double-clicks it.
+
+Staying organized when working in the Unix shell is important and it is never
+too early to begin to think about how organizing your data affects your 
+productivity and data reproducibility. Customized files extensions can be a 
+powerful way to organize and manipulate files as you become comfortable generating
+and manipulating files on the command line. Just as extensions like `.R`, `1.pl.`,
+and `.py` (accepted norms for R, Perl, and Python language scripts respectively),
+you mightwish to create your own extensions to track specialized files that are 
+specific to your data needs, such as `.BLASTp` for protein BLAST output files, `.pfam`
+for protein family files, or `.tmp` for temporary files that can be deleted. 
+Use your imagination to customize your files so that you can snoop them whenever
+needed across the many projects you may be involved in.
 {: .callout}
 
 > ## Renaming Files
