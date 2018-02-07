@@ -44,7 +44,8 @@ creatures/  data/  molecules/  north-pacific-gyre/  notes.txt  pizza.cfg  solar.
 ~~~
 {: .output}
 
-Let's create a new directory called `thesis` using the command `mkdir thesis`
+Let's create a new directory called `       
+thesis` using the command `mkdir thesis`
 (which has no output):
 
 ~~~
